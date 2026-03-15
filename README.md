@@ -67,6 +67,7 @@ The slicers make it possible to analyze specific customer segments quickly.
 This type of dashboard can help businesses understand their customers better and make data-driven marketing and sales decisions.
 
 Business Recommendations / Next Steps 
+
 Focus on middle-aged customers :
 They have the highest purchase rate, so marketing should target this age group.
 
