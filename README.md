@@ -1,6 +1,6 @@
 # EXCEL-REPORTS-AND-DATABASE-PROJECTS
 this repository contains all my excel projects and databases
-The Project is an excel workbook file and not CSV, to enable viewers view the data cleaning and dashboard in one sheet
+The Project is an excel workbook file and not CSV, click on view raw to enable viewers view the data cleaning and dashboard in one sheet
 In this FULL excel Project, i Extracted raw Bike buyers Dataset, cleaned it up and prepared a dashboard visualization  with  my cleaned data
 
 Bike Sales Dashboard – Project Explanation
