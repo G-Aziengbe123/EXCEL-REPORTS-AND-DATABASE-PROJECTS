@@ -1,3 +1,5 @@
+Click on Full excel project folder to access Raw Dataset and Finished project and dashboard The Project is an excel workbook file and not CSV, click on view raw to enable viewers view the data cleaning and dashboard in one sheet In this FULL excel Project, i Extracted raw Bike buyers Dataset, cleaned it up and prepared a dashboard visualization with my cleaned data
+
 Bike Sales Dashboard – Project Explanation
 
 This dashboard was created in Microsoft Excel to analyze customer characteristics and identify the factors that influence bike purchases. The goal of the dashboard is to provide a clear and interactive view of customer behavior using slicers and visual charts so that business users can easily filter data and make decisions.
